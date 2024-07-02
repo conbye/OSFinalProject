@@ -1,6 +1,10 @@
-# FinalProj
+# OS Final Project (Basic GUI)
 
 People: Connor Breyman, Kesha Shields, Charlie Barbas 
+
+# Description
+
+Built on top of a kernel created throughout the Operating Systems Course, this Project utilizes an array of I/O ports to simulate a basic GUI inclding windows and text. Although rudimentary, this has room to expand to include mouse inputs as well as GPU connectivity.
 
 Research Links:
 https://statistics.berkeley.edu/computing/faqs/view-graphical-unix-programs-your-computer
